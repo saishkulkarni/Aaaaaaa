@@ -1,0 +1,22 @@
+Prerequisites:
+
+* JDK 17 should be installed.
+
+* Visual Studio Code with the following extensions:
+   -> Java Extension Pack
+   -> Spring Boot Extension Pack
+   -> Spring boot extension Pack
+   -> Tabnine
+   -> Cody AI
+		
+* Google App Password.
+
+* Cloudinary credentials.
+
+* Razorpay credentials.
+
+* A stable and fast internet connection.
+
+* Proficiency in Core Java and Spring Framework.
+
+* A good, problem-solving mindset.
